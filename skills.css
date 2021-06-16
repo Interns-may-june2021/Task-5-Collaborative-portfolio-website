@@ -1,0 +1,52 @@
+h1 {
+  text-align: center;
+}
+.exp {
+    float: right: ;
+    color: black;
+    padding: 70px;
+    text-align: center;
+    position: relative;
+    
+}
+.main {
+    color: blanchedalmond;
+    background-color: #0a0a0a;
+    padding: 100px;
+}
+.edu{
+    float: left;
+    padding: 30px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.designing {box-sizing: border-box}
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {width: 90%; background-color: #04AA6D;}
+.css {width: 80%; background-color: #2196F3;}
+.js {width: 65%; background-color: #f44336;}
+.php {width: 60%; background-color: #808080;}
+
+.designing h2{
+    text-align:initial;
+}
+
+.both{
+  color: black;
+    padding: 20px;
+    border-radius:10px ;
+    text-align: center;
+    background-color: rgb(131, 113, 113);
+}
