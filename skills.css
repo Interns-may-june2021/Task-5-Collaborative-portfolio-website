@@ -11,27 +11,30 @@ h1 {
 }
 .main {
     color: blanchedalmond;
-    background-color: #0a0a0a;
+    background-color: #080808;
     padding: 100px;
 }
 .edu{
     float: left;
     padding: 30px;
-    text-align: center;
     padding-bottom: 50px;
 }
 .designing {box-sizing: border-box}
 
 .container {
-  width: 100%;
+  width: 50%;
   background-color: #ddd;
+  border-radius: 5px;
+  
 }
 
 .skills {
   text-align: right;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 0.25px;
+  padding-bottom: 0.25px;
   color: white;
+  border-radius: 5px;
+
 }
 
 .html {width: 90%; background-color: #04AA6D;}
@@ -50,3 +53,10 @@ h1 {
     text-align: center;
     background-color: rgb(131, 113, 113);
 }
+i{
+  font-size: 25px;
+  }
+  
+  .designing i{
+    color: ivory;
+  }
